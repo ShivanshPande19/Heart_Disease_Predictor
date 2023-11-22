@@ -6,8 +6,12 @@
 <h2>HOW TO USE THIS HEART DISEASE PREDICTOR IN YOUR PC?</h2>
 <p>
   STEP1: Clone this in your pc using git clone <address of this file>
+    <br>
   STEP 2: Now you need to run interface.py file in your pc
+     <br>
   STEP 3: Make sure to download the excel files nd change the address of read_csv corresponding to your system.
+     <br>
   STEP 4: Now when you run this file , make sure to type streamlit run interface.py in the terminal
+     <br>
   STEP 5: After this, you will be redirected to the webpage deployed in streamlit
 </p>
